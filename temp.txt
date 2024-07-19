@@ -1,0 +1,1105 @@
+
+            <img className="product-image"
+              src="assets/images/products/black.jfif" id="img1"/>
+          <div className="product-name limit-text-to-2-lines">
+            Black V neck top
+          </div>
+
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/5.jpg"/>
+            <div className="product-rating-count link-primary">
+              87
+            </div>
+          </div>
+
+          <div className="product-price">
+            RS.1299
+          </div>
+
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+
+          <div className="product-spacer"></div>
+
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+        </div>
+
+        <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/floral.webp"/>
+          </div>
+
+          <div className="product-name limit-text-to-2-lines">
+            Floral puff sleeve top
+          </div>
+
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/4.jpg"/>
+            <div className="product-rating-count link-primary">
+              127
+            </div>
+          </div>
+
+          <div className="product-price">
+            RS.699
+          </div>
+
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+
+          <div className="product-spacer"></div>
+
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+        </div>
+
+
+        <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/strb.webp"/>
+          </div>
+
+          <div className="product-name limit-text-to-2-lines">
+            beige crop top
+          </div>
+
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/5.jpg"/>
+            <div className="product-rating-count link-primary">
+              56
+            </div>
+          </div>
+
+          <div className="product-price">
+            RS.599
+          </div>
+
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+
+          <div className="product-spacer"></div>
+
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+        </div>
+
+
+        <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/white.jfif"/>
+          </div>
+
+          <div className="product-name limit-text-to-2-lines">
+            white sleeve knoted top
+          </div>
+
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/3.jpg"/>
+            <div className="product-rating-count link-primary">
+              56
+            </div>
+          </div>
+
+          <div className="product-price">
+            RS.999
+          </div>
+
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+
+          <div className="product-spacer"></div>
+
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+        </div>
+
+
+
+        <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/blue.jfif"/>
+          </div>
+
+          <div className="product-name limit-text-to-2-lines">
+           blue deep neck top
+          </div>
+
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/4.jpg"/>
+            <div className="product-rating-count link-primary">
+              65
+            </div>
+          </div>
+
+          <div className="product-price">
+            RS.299
+          </div>
+
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+
+          <div className="product-spacer"></div>
+
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+          </div>
+
+
+          {/* <div className="products-grid"> */}
+            <div className="product-container">
+              <div className="product-image-container">
+                <img className="product-image"
+                  src="assets/images/products/purple.jfif"/>
+              </div>
+            
+              <div className="product-name limit-text-to-2-lines">
+                stylish purplr tank top women
+              </div>
+            
+              <div className="product-rating-container">
+                <img className="product-rating-stars"
+                  src="assets/images/ratings/5.jpg"/>
+                <div className="product-rating-count link-primary">
+                  88
+                </div>
+              </div>
+            
+              <div className="product-price">
+                RS.679
+              </div>
+            
+              <div className="product-quantity-container">
+                <select>
+                  <option selected value="1">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+                  <option value="4">4</option>
+                  <option value="5">5</option>
+                  <option value="6">6</option>
+                  <option value="7">7</option>
+                  <option value="8">8</option>
+                  <option value="9">9</option>
+                  <option value="10">10</option>
+                </select>
+            
+              </div>
+            
+              <div className="product-spacer"></div>
+            
+              <div className="added-to-cart">
+                <img src="assets/images/icons/checkmark.png"/>
+                Added
+              </div>
+            
+              <button className="buy-now-button button-primary">
+                Buy Now
+              </button>
+
+              <button className="add-to-cart-button button-primary">
+                Add to Cart
+              </button>
+            </div>
+        {/* </div> */}
+        {/* <div className="products-grid"> */}
+          <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/bk.jfif"/>
+          </div>
+        
+          <div className="product-name limit-text-to-2-lines">
+           beige black strips  crushed top
+          </div>
+        
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/1.jpg"/>
+            <div className="product-rating-count link-primary">
+              23
+            </div>
+          </div>
+        
+          <div className="product-price">
+            RS.1,599
+          </div>
+        
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+        
+          <div className="product-spacer"></div>
+        
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+        
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+        </div>
+        {/* </div>
+        
+          <div className="products-grid"> */}
+          <div className="product-container">
+          <div className="product-image-container">
+                <img className="product-image"
+                 src="assets/images/products/sun.jfif"/>
+          </div>
+       
+        
+          <div className="product-name limit-text-to-2-lines">
+            sun ans moon print neted top
+          </div>
+        
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/3.jpg"/>
+            <div className="product-rating-count link-primary">
+              23
+            </div>
+          </div>
+        
+          <div className="product-price">
+            RS.980
+          </div>
+        
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+        
+          <div className="product-spacer"></div>
+        
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+        
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+        </div>
+        {/* </div>
+
+        <div className="products-grid"> */}
+          <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/red.jfif"/>
+          </div>
+        
+        
+          <div className="product-name limit-text-to-2-lines">
+           floral rose neted top
+          </div>
+        
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/1.jpg"/>
+            <div className="product-rating-count link-primary">
+              99
+            </div>
+          </div>
+        
+          <div className="product-price">
+            RS.399Rs
+          </div>
+        
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+        
+          <div className="product-spacer"></div>
+        
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+        
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+        </div>
+        {/* </div>
+
+        <div className="products-grid"> */}
+          <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/ribb.jfif"/>
+          </div>
+        
+        
+          <div className="product-name limit-text-to-2-lines">
+            riibed matairial blue sleeveless top
+          </div>
+        
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/5.jpg"/>
+            <div className="product-rating-count link-primary">
+              169
+            </div>
+          </div>
+        
+          <div className="product-price">
+            RS.980
+          </div>
+        
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+        
+          <div className="product-spacer"></div>
+        
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+        
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+        </div>
+        {/* </div>
+
+        <div className="products-grid"> */}
+          <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/knot.webp"/>
+          </div>
+        
+        
+          <div className="product-name limit-text-to-2-lines">
+            tie die print knoted top
+          </div>
+        
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/3.jpg"/>
+            <div className="product-rating-count link-primary">
+              23
+            </div>
+          </div>
+        
+          <div className="product-price">
+            RS.299Rs
+          </div>
+        
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+        
+          <div className="product-spacer"></div>
+        
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+        
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+        </div>
+        {/* </div>
+
+        <div className="products-grid"> */}
+          <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/po.jfif"/>
+          </div>
+        
+        
+          <div className="product-name limit-text-to-2-lines">
+           pink sleeveless party wear top
+          </div>
+        
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/5.jpg"/>
+            <div className="product-rating-count link-primary">
+              20
+            </div>
+          </div>
+        
+          <div className="product-price">
+            RS.269Rs
+          </div>
+        
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+        
+          <div className="product-spacer"></div>
+        
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+        
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+        </div>
+        {/* </div>
+
+        <div className="products-grid"> */}
+          <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/glitter.jfif"/>
+          </div>
+        
+        
+          <div className="product-name limit-text-to-2-lines">
+            party wear diamond cups top for women
+          </div>
+        
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/4.jpg"/>
+            <div className="product-rating-count link-primary">
+              200
+            </div>
+          </div>
+        
+          <div className="product-price">
+            RS.2056Rs
+          </div>
+        
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+        
+          <div className="product-spacer"></div>
+        
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+        
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+        </div>
+        {/* </div>
+
+        <div className="products-grid"> */}
+          <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/t.webp"/>
+          </div>
+        
+        
+          <div className="product-name limit-text-to-2-lines">
+            rainbow print t shirt for her
+          </div>
+        
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/5.jpg"/>
+            <div className="product-rating-count link-primary">
+              230
+            </div>
+          </div>
+        
+          <div className="product-price">
+            RS.666Rs
+          </div>
+        
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+        
+          <div className="product-spacer"></div>
+        
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+        
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+        </div>
+        {/* </div>
+
+        <div className="products-grid"> */}
+          <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/bl.jfif"/>
+          </div>
+        
+        
+          <div className="product-name limit-text-to-2-lines">
+            black V neck neted top for her
+          </div>
+        
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/3.jpg"/>
+            <div className="product-rating-count link-primary">
+              23
+            </div>
+          </div>
+        
+          <div className="product-price">
+            RS.160Rs
+          </div>
+        
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+        
+          <div className="product-spacer"></div>
+        
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+        
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+        </div>
+        {/* </div>
+
+        <div className="products-grid"> */}
+          <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/pod.jfif"/>
+          </div>
+        
+        
+          <div className="product-name limit-text-to-2-lines">
+           powder blue puff sleeve top
+          </div>
+        
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/1.jpg"/>
+            <div className="product-rating-count link-primary">
+              42
+            </div>
+          </div>
+        
+          <div className="product-price">
+            RS.199Rs
+          </div>
+        
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+        
+          <div className="product-spacer"></div>
+        
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+        
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+        </div>
+        {/* </div>
+
+        <div className="products-grid"> */}
+          <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/neck.webp"/>
+          </div>
+        
+        
+          <div className="product-name limit-text-to-2-lines">
+         floral deep neck crop top
+          </div>
+        
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/2.jpg"/>
+            <div className="product-rating-count link-primary">
+              52
+            </div>
+          </div>
+        
+          <div className="product-price">
+            RS.458Rs
+          </div>
+        
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+        
+          <div className="product-spacer"></div>
+        
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+        
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+        </div>
+        {/* </div>
+
+        <div className="products-grid"> */}
+          <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/print.webp"/>
+          </div>
+        
+        
+          <div className="product-name limit-text-to-2-lines">
+           black white print crop t shirt
+          </div>
+        
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/2.jpg"/>
+            <div className="product-rating-count link-primary">
+              20
+            </div>
+          </div>
+        
+          <div className="product-price">
+            RS.1269Rs
+          </div>
+        
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+        
+          <div className="product-spacer"></div>
+        
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+        
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+          
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+
+        
+        </div> 
+        {/* </div>
+
+        <div className="products-grid"> */}
+          <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/baby.jfif"/>
+          </div>
+        
+        
+          <div className="product-name limit-text-to-2-lines">
+           baby pink cardigan with white crop top
+          </div>
+        
+          <div className="product-rating-container">
+            <img className="product-rating-stars"
+              src="assets/images/ratings/4.jpg"/>
+            <div className="product-rating-count link-primary">
+              202
+            </div>
+          </div>
+        
+          <div className="product-price">
+            RS.1599Rs
+          </div>
+        
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+        
+          <div className="product-spacer"></div>
+        
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+        
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+          
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+
+        
+        </div> 
+        {/* </div>
+
+
+        <div className="products-grid"> */}
+          <div className="product-container">
+          <div className="product-image-container">
+            <img className="product-image"
+              src="assets/images/products/block.webp"/>
+          </div>
+        
+          <div className="product-name limit-text-to-2-lines">
+          beige top on brown block winter top Cotton T-shirt
+          </div>
+        
+          <div className="product-rating-container">
+            <img className="product-rating-stars" src="assets/images/ratings/5.jpg"/>
+            <div className="product-rating-count link-primary">560</div>
+              
+            </div>
+        
+          <div className="product-price">
+            RS.750Rs
+          </div>
+        
+          <div className="product-quantity-container">
+            <select>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
+        
+          <div className="product-spacer"></div>
+        
+          <div className="added-to-cart">
+            <img src="assets/images/icons/checkmark.png"/>
+            Added
+          </div>
+          
+        
+          <button className="buy-now-button button-primary">
+            Buy Now
+          </button>
+
+          <button className="add-to-cart-button button-primary">
+            Add to Cart
+          </button>
+    
